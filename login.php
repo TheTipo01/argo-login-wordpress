@@ -34,6 +34,6 @@ try {
     }
 }
 catch (Exception $e) {
-    echo 'ArgoAPI exception: ', $e->getMessage(), "\n";
+    header("location: https://coffee-up.it/argo-login/error.html");
 }
 ?>
