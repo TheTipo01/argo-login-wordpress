@@ -1,2 +1,2 @@
 # argo-login
-Login attraverso il registro elettronico su WordPress
+Login via argo electronic register on wordpress
